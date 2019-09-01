@@ -1,0 +1,10 @@
+<templateSet group="Python">
+  <template name="craw" value="from urllib.request import urlopen&#10;from bs4 import BeautifulSoup&#10;&#10;url = &quot;$URL$&quot;&#10;&#10;result = urlopen(url)&#10;result_html = result.read()&#10;result_soup = BeautifulSoup(result_html, 'html.parser')&#10;tags = result_soup.find_all(&quot;$TAG$&quot;)&#10;&#10;$END$" description="crawling code" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TAG" expression="&quot;TAG&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,22 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_FAMILY" value="Courier New" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\bprocess\b.*">
+      <option name="FOREGROUND" value="93bbc0" />
+      <option name="BACKGROUND" value="404135" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="aba86d" />
+    </pattern>
+    <filter name="process">
+      <pattern index="2" />
+    </filter>
+  </component>
+</application>

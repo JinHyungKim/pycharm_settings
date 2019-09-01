@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Black" description="Black Python code formatter" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\esnsf\Anaconda3\Scripts\black.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Google Search" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Google\Chrome\Application\chrome" />
+      <option name="PARAMETERS" value="www.google.com/search?q=&quot;$ClipboardContent$&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/Google/Chrome/Application" />
+    </exec>
+  </tool>
+</toolSet>
