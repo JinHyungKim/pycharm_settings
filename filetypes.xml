@@ -5,6 +5,7 @@
       <mapping pattern="run_flask" type="PLAIN_TEXT" />
       <mapping pattern="참고_홈페이지" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="flask_run" type="PLAIN_TEXT" />
       <mapping pattern="54_collect_finance_data" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
