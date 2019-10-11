@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="$USER_HOME$/Documents/00_작업/21_PycharmProjects" />
     <option name="showTipsOnStartup" value="false" />
   </component>
