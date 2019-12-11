@@ -5,6 +5,7 @@
       <mapping ext="db" type="Native" />
       <mapping pattern="run_flask" type="PLAIN_TEXT" />
       <mapping pattern="참고_홈페이지" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="refer" type="PLAIN_TEXT" />
       <mapping pattern="flask_run" type="PLAIN_TEXT" />
