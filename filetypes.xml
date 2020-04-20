@@ -3,13 +3,14 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="db" type="Native" />
-      <mapping pattern="run_flask" type="PLAIN_TEXT" />
-      <mapping pattern="참고_홈페이지" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="참고_홈페이지" type="PLAIN_TEXT" />
       <mapping pattern="refer" type="PLAIN_TEXT" />
-      <mapping pattern="flask_run" type="PLAIN_TEXT" />
       <mapping pattern="jupyter_css.css" type="PLAIN_TEXT" />
+      <mapping pattern="run_flask" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="run_file" type="PLAIN_TEXT" />
+      <mapping pattern="flask_run" type="PLAIN_TEXT" />
       <mapping pattern="54_collect_finance_data" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
