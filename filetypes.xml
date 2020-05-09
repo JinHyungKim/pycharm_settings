@@ -11,6 +11,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="run_file" type="PLAIN_TEXT" />
       <mapping pattern="flask_run" type="PLAIN_TEXT" />
+      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping pattern="54_collect_finance_data" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
