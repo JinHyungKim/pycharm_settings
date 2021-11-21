@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="db" type="Native" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="run_map" type="PLAIN_TEXT" />
       <mapping pattern="download_package" type="PLAIN_TEXT" />
       <mapping pattern="참고_홈페이지" type="PLAIN_TEXT" />
       <mapping pattern="refer" type="PLAIN_TEXT" />
