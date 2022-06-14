@@ -1,22 +1,15 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <removed_mapping ext="csv" type="CSV" />
+      <removed_mapping ext="psv" type="PSV" />
+      <removed_mapping ext="tab" type="TSV" />
+      <removed_mapping ext="tsv" type="TSV" />
       <mapping ext="db" type="Native" />
-      <mapping pattern="ddd" type="PLAIN_TEXT" />
-      <mapping pattern="run_map" type="PLAIN_TEXT" />
-      <mapping pattern="download_package" type="PLAIN_TEXT" />
-      <mapping pattern="참고_홈페이지" type="PLAIN_TEXT" />
-      <mapping pattern="refer" type="PLAIN_TEXT" />
-      <mapping pattern="jupyter_css.css" type="PLAIN_TEXT" />
-      <mapping pattern="run_flask" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="run_file" type="PLAIN_TEXT" />
-      <mapping pattern="flask_run" type="PLAIN_TEXT" />
-      <mapping ext="ipynb" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping pattern="54_collect_finance_data" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
@@ -26,6 +19,17 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="54_collect_finance_data" type="Python" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="download_package" type="PLAIN_TEXT" />
+      <mapping pattern="flask_run" type="PLAIN_TEXT" />
+      <mapping pattern="jupyter_css.css" type="PLAIN_TEXT" />
+      <mapping pattern="refer" type="PLAIN_TEXT" />
+      <mapping pattern="run_file" type="PLAIN_TEXT" />
+      <mapping pattern="run_flask" type="PLAIN_TEXT" />
+      <mapping pattern="run_map" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="참고_홈페이지" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
