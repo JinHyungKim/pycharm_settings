@@ -20,4 +20,9 @@
   </action>
   <action id="FileChooser.GotoProject" />
   <action id="OpenElementInNewWindow" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="UsageFiltering.ReadAccess" />
 </keymap>
